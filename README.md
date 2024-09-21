@@ -2,7 +2,8 @@
 
 ### Final Year B.Tech Student | Full Stack Web Developer
 
-Hello! I’m **Sonu Mondal**, a final-year B.Tech student in Computer Science and Engineering at Narula Institute of Technology. With a strong foundation in web development, I specialize in creating dynamic, responsive, and user-friendly websites using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
+Hello! I’m **Sonu Mondal**, a final-year B.Tech student in Computer Science and Engineering at Narula Institute of Technology. With a strong foundation in web development, I specialize in creating dynamic, responsive, and user-friendly websites using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) and Next.js.
+I have solved more than 300+ DSA problem on LeetCode and GeeksForGeeks.
 
 I am passionate about coding and continuously enhancing my skills, and I am actively seeking roles such as:
 - Software Developer
