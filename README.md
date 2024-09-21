@@ -6,7 +6,7 @@ I’m **Sonu Mondal**, a final-year B.Tech student in Computer Science and Engin
 
 I have also solved **300+ DSA problems** on **LeetCode** and **GeeksForGeeks**, demonstrating my strong problem-solving and algorithmic skills.
 
-## 🌟 Academic Projects
+## 🌟 Projects
 
 ### [Zomato Clone](https://github.com/sonu2027/Zomato-Clone)
 A fully responsive web application that mimics the core functionalities of Zomato, featuring restaurant management, user accounts, and secure email verification.  
@@ -20,13 +20,11 @@ A secure photo management web app that allows users to organize and store photos
 - Features include user authentication, photo management, and profile management.
 - Designed with **Tailwind CSS** for a visually appealing and responsive layout.
 
-**Tech Stack**: Tailwind CSS, React.js, Redux-toolkit, Express.js, MongoDB, Node.js
-
 ## 🚀 Skills & Technologies
 - **Frontend**: React.js, HTML, CSS, JavaScript, Tailwind CSS
 - **Backend**: Node.js, Express.js, MongoDB, MySQL
-- **Languages**: C++
-- **Tools**: Redux-toolkit, Git
+- **Languages**: C++, JavaScript
+- **Tools**: Git, GitHub, VS Code, Postman, MongoDB Atlas, Cloudinary
 
 ## 👔 Positions of Responsibility
 
