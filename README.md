@@ -4,7 +4,7 @@
 
 I’m **Sonu Mondal**, a final-year B.Tech student in Computer Science and Engineering at Narula Institute of Technology. With a solid foundation in the **MERN stack**, I excel at building dynamic and user-friendly websites. I am actively seeking opportunities as a **Software Developer**, **Full Stack Web Developer**, **Frontend Developer**, or **Backend Developer** to apply my skills and passion for web development in a professional setting.
 
-I have also solved **300+ DSA problems** on **LeetCode** and **GeeksForGeeks**, demonstrating my strong problem-solving and algorithmic skills.
+I have solved **300+ DSA problems** on **LeetCode** and **GeeksForGeeks**, demonstrating my strong problem-solving and algorithmic skills.
 
 ## 🌟 Projects
 
@@ -37,6 +37,6 @@ A secure photo management web app that allows users to organize and store photos
 
 ## 📫 Contact Me
 
-- **LinkedIn**: [Sonu Mondal](https://www.linkedin.com/in/sonu-mondal)
+- **LinkedIn**: [Sonu Mondal](https://www.linkedin.com/in/sonu-mondal-2380981a7/)
 - **GitHub**: [sonu2027](https://github.com/sonu2027)
 - **Email**: sonu.mondal.2027@gmail.com
