@@ -23,7 +23,7 @@ A secure photo management web app that allows users to organize and store photos
 ## 🚀 Skills & Technologies
 - **Frontend**: React.js, HTML, CSS, JavaScript, Tailwind CSS
 - **Backend**: Node.js, Express.js, MongoDB, MySQL
-- **Languages**: C++, JavaScript
+- **Languages**: C++, JavaScript, Python
 - **Tools**: Git, GitHub, VS Code, Postman, MongoDB Atlas, Cloudinary
 
 ## 👔 Positions of Responsibility
